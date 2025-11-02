@@ -1,0 +1,138 @@
+/* .yousuf{
+  margin-top: 20px;
+  margin-right: 20px;
+}
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+} */
+ /* .items-container {
+  width: 100%;
+  max-width: 500px;
+  margin: 20px auto;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+  margin-bottom: 10px;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #fafafa;
+  border: 1px solid #e2e2e2;
+  border-radius: 8px;
+  padding: 10px 15px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  transition: all 0.3s ease;
+}
+
+.row:hover {
+  background-color: #f0f8ff;
+  transform: scale(1.01);
+}
+
+.col {
+  flex: 1;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 500;
+  color: #333;
+}
+
+.yousuf {
+  text-align: right;
+}
+
+.btn {
+  padding: 6px 16px;
+  font-size: 14px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.btn-danger {
+  background-color: #dc3545;
+  color: white;
+
+}
+
+.btn-danger:hover {
+  background-color: #bb2d3b;
+} */
+.items-container {
+  width: 100%;
+  max-width: 550px;
+  margin: 20px auto;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+  margin-bottom: 10px;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #ffffff;
+  border: 1px solid #e2e2e2;
+  border-radius: 10px;
+  padding: 10px 15px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  transition: all 0.2s ease-in-out;
+}
+
+.row:hover {
+  background-color: #f9f9f9;
+  transform: translateY(-2px);
+}
+
+.col {
+  flex: 1;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 500;
+  color: #333;
+}
+
+.yousuf {
+  text-align: right;
+}
+
+.btn {
+  display: inline-block;
+  margin: 20px;
+  padding: 6px 18px;
+  font-size: 15px;
+  font-weight: 600;
+  border-radius: 25px;
+  border: none;
+  cursor: pointer;
+  letter-spacing: 0.5px;
+  transition: all 0.3s ease;
+  outline: none;
+}
+
+.btn-danger {
+  background-color: #e74c3c;
+  color: white;
+  box-shadow: 0 3px 6px rgba(231, 76, 60, 0.3);
+}
+
+.btn-danger:hover {
+  background-color: #c0392b;
+  transform: scale(1.05);
+  box-shadow: 0 5px 10px rgba(231, 76, 60, 0.4);
+}
+
+.btn-danger:active {
+  transform: scale(0.97);
+}

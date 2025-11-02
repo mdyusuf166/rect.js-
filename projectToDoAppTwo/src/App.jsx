@@ -47,7 +47,7 @@
 
 import Heading from "./assets/Heading";
 import FirstOne from "./assets/FirstOne";
-import Second_one from "./assets/Second_one";
+import SecondOne from "./assets/SecondOne";
 import Last from "./assets/Last";
 import "./App.css";
 
@@ -68,7 +68,7 @@ function App() {
     <div style={{ textAlign: "center" }}>
       <Heading />
       <FirstOne />
-      <Second_one todoItems={todoItems}/>
+      <SecondOne todoItems={todoItems}/>
       <Last />
     </div>
   );
